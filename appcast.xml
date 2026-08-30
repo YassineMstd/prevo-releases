@@ -3,13 +3,13 @@
   <channel>
     <title>Make it Shine</title>
     <item>
-      <title>Version 2.1</title>
-      <description><![CDATA[<p>Auto-updates, mirrored Peek and Angled layouts, per-language caption editing, wrap-at-size text, per-screen custom styles, and sharper AI titles.</p>]]></description>
-      <pubDate>Sun, 30 Aug 2026 17:05:52 +0100</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <title>Version 1.0</title>
+      <description><![CDATA[<p>First release.</p>]]></description>
+      <pubDate>Sun, 30 Aug 2026 17:51:26 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/YassineMstd/make-it-shine-releases/releases/download/v2.1/Make-it-Shine-2.1.zip" sparkle:edSignature="Ln0TDzdy4uXIOS/DEPClSqzEKybb5InPwr0sbREk9asLepAiImQN9CRIgPwtHiR0Sz6MUBhJg4wGMib0fGjPAQ==" length="3166150" type="application/octet-stream"/>
+      <enclosure url="https://github.com/YassineMstd/make-it-shine-releases/releases/download/v1.0/Make-it-Shine-1.0.zip" sparkle:edSignature="OvnDC18g4TPMf9KoL70BSQCaJmPNVk/mwBZxBak2RcKusMgK1WfMKbQ+TK8PL43aOAeaw08cQXSYbfyePzAxCA==" length="3166151" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
