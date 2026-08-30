@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Make it Shine</title>
+    <item>
+      <title>Version 2.1</title>
+      <description><![CDATA[<p>Auto-updates, mirrored Peek and Angled layouts, per-language caption editing, wrap-at-size text, per-screen custom styles, and sharper AI titles.</p>]]></description>
+      <pubDate>Sun, 30 Aug 2026 17:05:52 +0100</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/YassineMstd/make-it-shine-releases/releases/download/v2.1/Make-it-Shine-2.1.zip" sparkle:edSignature="Ln0TDzdy4uXIOS/DEPClSqzEKybb5InPwr0sbREk9asLepAiImQN9CRIgPwtHiR0Sz6MUBhJg4wGMib0fGjPAQ==" length="3166150" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
