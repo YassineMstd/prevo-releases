@@ -1,4 +1,4 @@
-# Make it Shine — Releases
+# Prevo. — Releases
 
 Update feed for the Make it Shine macOS app.
 
